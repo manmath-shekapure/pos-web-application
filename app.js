@@ -131,3 +131,4 @@ function removeItem(id) {
 function savedCart() {
     localStorage.setItem("cart", JSON.stringify(cart));
 }
+..
