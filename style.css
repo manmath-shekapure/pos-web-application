@@ -15,7 +15,7 @@ body{
     display: flex;
 }
 .products{
-    width: 70%;
+    width: 71%;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 90px;
